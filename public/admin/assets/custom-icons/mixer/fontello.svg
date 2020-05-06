@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mixplay-icon-" unicode="&#xe800;" d="M782-150l-546 0c-130 0-236 106-236 237l0 246c0 93 75 168 167 168l66 0c22 0 40-18 40-40 0-22-18-40-40-40l-66 0c-49 0-89-39-89-88l0-246c0-87 71-158 158-158l546 0c70 0 127 57 127 127 0 22 18 40 39 40 22 0 39-18 39-40 0-114-92-206-205-206m39 349l-67 0c-22 0-39 18-39 40 0 22 17 40 39 40l67 0c48 0 88 39 88 88l0 247c0 86-69 157-154 157l-546 0c-73 0-131-56-131-127 0-22-17-39-39-39-21 0-39 17-39 39 0 116 92 206 209 206l546 0c128 0 232-106 232-236l0-247c0-93-74-168-166-168m-432 434c-15 21-44 24-63 6-17-15-18-41-5-60l87-118-87-118c-14-19-13-45 4-60 19-18 49-15 64 6l121 166c3 4 3 9 0 13l-121 165z m208-222c15 21 45 24 64 6 17-15 18-41 4-60l-86-117 87-119c13-18 12-45-5-60-19-18-48-14-63 6l-122 166c-3 4-3 9 0 13l121 165z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
